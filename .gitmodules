@@ -1,0 +1,4 @@
+[submodule "aem-commons"]
+	path = aem-commons
+	url = git@github.com:MahediSabuj/aem-commons.git
+	branch = main
