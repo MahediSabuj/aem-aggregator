@@ -2,3 +2,7 @@
 	path = aem-commons
 	url = git@github.com:MahediSabuj/aem-commons.git
 	branch = main
+[submodule "aem-site"]
+	path = aem-site
+	url = git@github.com:MahediSabuj/aem-site.git
+	branch = main

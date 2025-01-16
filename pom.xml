@@ -10,6 +10,7 @@
 
     <modules>
         <module>aem-commons</module>
+        <module>aem-site</module>
     </modules>
 
 </project>
