@@ -6,3 +6,7 @@
 	path = aem-site
 	url = git@github.com:MahediSabuj/aem-site.git
 	branch = main
+[submodule "aem-spa"]
+	path = aem-spa
+	url = git@github.com:MahediSabuj/aem-spa.git
+	branch = main

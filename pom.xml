@@ -11,6 +11,7 @@
     <modules>
         <module>aem-commons</module>
         <module>aem-site</module>
+        <module>aem-spa</module>
     </modules>
 
 </project>
