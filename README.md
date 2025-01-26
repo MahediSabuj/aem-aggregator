@@ -6,6 +6,7 @@ The list of the other repos included as submodule are:
 
 * [aem-commons](https://github.com/MahediSabuj/aem-commons)
 * [aem-site](https://github.com/MahediSabuj/aem-site)
+* [aem-spa](https://github.com/MahediSabuj/aem-spa)
 
 ## How to clone
 
